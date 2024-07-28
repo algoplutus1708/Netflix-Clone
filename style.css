@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.corefeaturesection{
+    background-size: 100% 100%;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+    background-image: url(./images/CF-sectionBg.svg);
+}
+.companiesList{
+    animation:10s infinite linear moveCompany;
+}
+
+.ctaSection{
+    background-size: 100% 100%;
+    background-image: url(./images/CTABg.svg);
+}
+
+@keyframes moveCompany {
+0%{
+    top:0;
+}
+100%{
+    top:-50%;
+}
+}
