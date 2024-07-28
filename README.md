@@ -8,7 +8,7 @@ Check out the website [here](https://razorpay-clone-ivory-delta.vercel.app/)!
 * JS
 
 ## Home Page
-<img width="920" alt="image" src="https://github.com/bhaumikmaan/algoplutus1708/assets/82998871/c187fd43-2aa2-43be-b178-d503ffae5c90"> <br>
+<img width="920" alt="image" src="https://github.com/algoplutus1708/Razorpay-Clone/assets/82998871/c187fd43-2aa2-43be-b178-d503ffae5c90"> <br>
 
 ## Core Features
 <img width="904" alt="image" src="https://github.com/algoplutus1708/Razorpay-Clone/assets/82998871/a7624bfb-f820-4ec6-941c-e5c4ec7a414a"> <br>
